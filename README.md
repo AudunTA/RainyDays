@@ -15,7 +15,7 @@ Rainy days were my first website during my Frond-end course. This project is onl
 
 ## Installing
 
-To install the projects, clone the repository and then install the dependencies.
+To install the projects;
 
 1. Clone or download the project:
  ```
