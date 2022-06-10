@@ -23,7 +23,7 @@ To install the projects, clone the repository and then install the dependencies.
  ```
 2. Open the project in your code editor:
 ```
-run on your live server
+run on your local server, you cannot commit on this project
 ```
 
 # Contributing
