@@ -5,7 +5,7 @@
 
 
 # Description
-Rainy days were my first website during my Frond-end course. This project is only built with HTML and CSS
+Rainy days were my first website during my Frond-end course. This project is only built with HTML and CSS. The idea behind this project were to build a web-application for a fictional raincoat store.
 
 ## Built with
 
