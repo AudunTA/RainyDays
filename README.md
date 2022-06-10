@@ -1,6 +1,6 @@
 # Rainy Days
 
-![The PlantSpire homepage](https://github.com/AudunTA/PlantSpire_p/blob/master/images/plantSpire2_00000.png "Logo")
+![The PlantSpire homepage](https://github.com/AudunTA/RainyDays/blob/main/rainy.png "Logo")
 
 
 
@@ -13,18 +13,17 @@ Rainy days were my first website during my Frond-end course. This project is onl
 * HTML
 
 
-
 ## Installing
 
 To install the projects, clone the repository and then install the dependencies.
 
-1. Clone the repo:
+1. Clone or download the project:
  ```
-  git clone git@github.com:AudunTA/RainyDays.git
+  SSH clone URL: git@github.com:AudunTA/ISMK.git
  ```
-2. Install the dependencies:
+2. Open the project in your code editor:
 ```
-npm install
+run on your live server
 ```
 
 # Contributing
